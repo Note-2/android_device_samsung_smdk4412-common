@@ -1,4 +1,4 @@
-sbin/cbd
+system/bin/cbd
 system/bin/gps.cer
 system/cameradata/datapattern_420sp.yuv
 system/cameradata/datapattern_front_420sp.yuv
